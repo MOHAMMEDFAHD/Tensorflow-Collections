@@ -152,15 +152,3 @@ If this helped you learn or build something awesome, **give it a star ⭐** and 
 > *"Learning never exhausts the mind." — Leonardo da Vinci*
 
 ```
-
----
-
-### ✅ Pro Tips:
-- Replace `your-username` with your actual GitHub username in all badge URLs.
-- Add a `CONTRIBUTING.md` and `LICENSE` file to link properly.
-- Consider adding:
-  - **README GIFs/Screenshots**
-  - **Live demo with Streamlit or Gradio**
-  - **Colab links** for each project
-
-```
