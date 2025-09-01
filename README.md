@@ -139,6 +139,3 @@ If you find this collection useful, **please star ⭐ the repo** and share it wi
 > *"Learning never exhausts the mind." — Leonardo da Vinci*
 
 ```
-
-Let me know if you'd like badges, GitHub Actions CI config, or `README` previews with embedded media!
-```
